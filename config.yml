@@ -1,0 +1,39 @@
+################################################################################################
+#                       Custom plug-in by Ethan Milford, JACDupe                               #
+################################################################################################
+
+###############################################
+# Stop the project table dupe?                #
+###############################################
+ptfix: 'true'
+
+###############################################
+# Stop the RM_FURNACE dupe?                   #
+###############################################
+rmfurnace: 'true'
+
+###############################################
+# Stop the TANK_CART glitch and dupe?         #
+###############################################
+tankcart: 'true'
+
+###############################################
+# Stop the ALCHEMICAL_CHEST dupes?            #
+###############################################
+# ~~Dupe on explosion
+alchbreakfix: 'true'
+# ~~Dupe on teleportation
+alchtpdupe: 'true'
+# ~~Dupe when you break the item with a block breaker
+alchblockbreakerfix: 'true'
+
+###############################################
+# Stop Auto Crafting Table dupe with a block  #
+# breaker?                                    #
+###############################################
+autotableblockbreakerfix: 'true'
+
+###############################################
+# Block right clicking of EE tools?           #
+###############################################
+eeclick: 'true'
